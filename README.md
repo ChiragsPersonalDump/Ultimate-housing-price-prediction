@@ -1,4 +1,7 @@
 # Ultimate-housing-price-prediction
+The main code content lies in the MAIN HOUSING jupyter notebook and the housing data stands in housing.csv
+
+
 This is a ultimate project of housing price prediction , The entire data have been cleaned , filtered , scaled , trained and fine tuned rigorously over various levels . 
 Data used for training : californina housing data 
 No. of training examples : around 16 thousands.
